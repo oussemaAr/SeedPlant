@@ -8,7 +8,7 @@ Using the Canary version of `Android Studio Arctic Fox | 2020.3.1 Canary 3` and 
 
 Screenshots
 -----------
-<img src="screenshots/seed_plant.jpg" alt="Splash Screen">
+<img src="screenshots/seedplant.jpg" alt="Splash Screen">
 
 ## Features
 
